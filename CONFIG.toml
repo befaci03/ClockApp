@@ -1,0 +1,14 @@
+[base]
+name="Clock"
+
+[rpc]
+client_id="14680843486131"
+data={}
+
+[storage.browser]
+# Storage Types:
+#  1 = localStorage
+#  2 = cookie
+#  3 = sessionStorage
+settings_type="localStorage"
+settings_format=0  # 0 = JSON (all in one) 1 = Separated (multiple variables)
